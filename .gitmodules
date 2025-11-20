@@ -1,0 +1,6 @@
+[submodule "helloworld"]
+	path = helloworld
+	url = git@github.com:doggiek/Aptos-workshop-HelloWorld.git
+[submodule "NFT"]
+	path = NFT
+	url = git@github.com:doggiek/Aptos-NFT.git
